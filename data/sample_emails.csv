@@ -1,0 +1,14 @@
+subject,sender,text,label
+"Team standup notes","manager@example.com","Please review today's standup notes and add blockers before 5 PM.",primary
+"Invoice available","billing@cloudvendor.com","Your June invoice and account statement are attached for your records.",updates
+"Huge sale today","deals@shop.example","Limited time offer! Get 40% discount and free shipping on selected items.",promotion
+"New connection request","notifications@social.example","A new colleague sent you a connection request and commented on your post.",social
+"Verify password now","security-alert@paypa1.example","URGENT: your account will expire. Verify your password now at http://paypa1.example/login",phishing
+"You won cash","winner@unknown.example","Congratulations!!! You won $5000. Click this URL to claim your prize immediately.",spam
+"Deployment completed","ci@example.com","The production deployment completed successfully. Build logs are available in the dashboard.",updates
+"Lunch plan","friend@example.com","Are we still meeting for lunch near the office tomorrow?",primary
+"Flash cashback","promo@bankoffers.example","Act now for exclusive cashback, coupon code, and weekend deal.",promotion
+"Account suspended","support@secure-login.example","Final notice: account suspended. Confirm OTP and login credential immediately at www.secure-login.example",phishing
+"Follower activity","alerts@social.example","You have three new followers and two reactions on your profile.",social
+"Cheap medicine offer","sales@unknown.example","Buy cheap pills with no prescription. Free bonus offer expires today!!!",spam
+

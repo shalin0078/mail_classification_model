@@ -1,0 +1,5 @@
+Subject: Account verification required
+From: alerts@secure-login.example
+
+Final notice: your account access will expire today. Verify your password and OTP immediately at http://secure-login.example/verify.
+
