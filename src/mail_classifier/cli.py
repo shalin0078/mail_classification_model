@@ -23,6 +23,7 @@ def build_parser() -> argparse.ArgumentParser:
     train.add_argument("--data", required=True, help="Path to labeled CSV.")
     train.add_argument("--config", default="config.yaml", help="Path to YAML config.")
     train.add_argument("--output", default="models/mail_classifier.joblib", help="Model output path.")
+    train.add_argument("--metrics-output", help="Optional JSON file for training metrics.")
 
     evaluate = subparsers.add_parser("evaluate", help="Evaluate a saved model on labeled data.")
     evaluate.add_argument("--model", required=True, help="Path to saved joblib model.")
@@ -48,7 +49,12 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "train":
         artifact = train_model(args.data, args.config)
         save_artifact(artifact, args.output)
-        print(json.dumps({k: v for k, v in artifact.metrics.items() if k != "classification_report"}, indent=2))
+        metric_summary = {k: v for k, v in artifact.metrics.items() if k != "classification_report"}
+        if args.metrics_output:
+            metrics_path = Path(args.metrics_output)
+            metrics_path.parent.mkdir(parents=True, exist_ok=True)
+            metrics_path.write_text(json.dumps(artifact.metrics, indent=2), encoding="utf-8")
+        print(json.dumps(metric_summary, indent=2))
         print(artifact.metrics["classification_report"])
         print(f"Saved model to {args.output}")
         return 0
@@ -82,4 +88,3 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

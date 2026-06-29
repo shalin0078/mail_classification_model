@@ -16,7 +16,8 @@ This repository contains a complete Python ML workflow:
 ```text
 .
 ├── config.yaml                     # Training configuration
-├── data/sample_emails.csv           # Small demo dataset
+├── data/sample_emails.csv           # Tiny smoke-test dataset
+├── data/synthetic_emails.csv        # Larger deterministic synthetic dataset
 ├── examples/example_email.txt       # Example raw email for prediction
 ├── requirements.txt                 # Runtime dependencies
 ├── src/mail_classifier/
@@ -75,7 +76,7 @@ text,label
 "URGENT: verify your bank password now http://bad.example",phishing
 ```
 
-Use your real labeled emails for serious training. The included sample file is intentionally tiny and exists only to prove the workflow.
+Use your real labeled emails for serious training. The included sample file is intentionally tiny and exists only to prove the workflow. The synthetic dataset is larger and useful for demos, regression checks, and baseline training, but it should not be treated as a real production corpus.
 
 ## 4. Train
 
@@ -83,9 +84,10 @@ Train with the default config:
 
 ```bash
 python -m mail_classifier.cli train \
-  --data data/sample_emails.csv \
+  --data data/synthetic_emails.csv \
   --config config.yaml \
-  --output models/mail_classifier.joblib
+  --output models/mail_classifier.joblib \
+  --metrics-output reports/training_metrics.json
 ```
 
 The trainer will:
@@ -202,7 +204,29 @@ Before trusting the model:
 - Calibrate thresholds for phishing/spam if false negatives are costly.
 - Re-train regularly as email patterns drift.
 
-## 11. GitHub Push
+## 11. Generate Synthetic Data
+
+Regenerate the deterministic synthetic dataset:
+
+```bash
+python scripts/generate_synthetic_dataset.py \
+  --output data/synthetic_emails.csv \
+  --rows-per-label 120 \
+  --seed 42
+```
+
+This creates 720 labeled emails across six classes. It is intentionally structured so the repository can train and verify the pipeline without requiring private email data.
+
+Latest synthetic benchmark from `reports/training_metrics.json`:
+
+- Holdout rows: 180
+- Accuracy: `1.0`
+- Macro F1: `1.0`
+- Weighted F1: `1.0`
+
+These scores are expected because the synthetic classes are intentionally separable. Replace this dataset with real labeled email before making production claims.
+
+## 12. GitHub Push
 
 If the remote is not configured:
 
@@ -215,4 +239,3 @@ Then push:
 ```bash
 git push -u origin main
 ```
-

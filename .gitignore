@@ -7,8 +7,5 @@ venv/
 dist/
 build/
 *.egg-info/
-models/*.joblib
 reports/*.csv
-reports/*.json
 .DS_Store
-

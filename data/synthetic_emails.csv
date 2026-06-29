@@ -1,0 +1,721 @@
+subject,sender,text,label
+Document review #13,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Please keep this email for your records.,primary
+Project follow up #66,manager@example.com,I added comments to the document and assigned the open action items. Please keep this email for your records.,primary
+Coupon inside #17,promo@store.example,Get a special discount and free shipping on selected products this weekend. This message was generated for account 41186.,promotion
+You won cash #64,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. Reply is not required for this notification.,spam
+New connection request #61,notifications@social.example,You were invited to join a community discussion. This message was generated for account 80345.,social
+Project follow up #73,teammate@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Limited offer #71,promo@store.example,Buy today and save more with our festival offer. Reference id 19724.,promotion
+OTP required #96,verify@bank-check.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+New connection request #74,alerts@network.example,Someone commented on your update in the project group. Reference id 98317.,social
+New connection request #52,alerts@network.example,You have new followers and reactions on your recent post. Reply is not required for this notification.,social
+OTP required #21,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. This message was generated for account 21401.,phishing
+You won cash #14,winner@unknown.example,Free gift waiting for you. Click now before the offer expires!!! Sent from automated mail service.,spam
+Meeting notes #83,teammate@example.com,I added comments to the document and assigned the open action items. Please keep this email for your records.,primary
+Group invite #72,updates@community.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Meeting notes #24,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reply is not required for this notification.,primary
+Urgent security alert #117,support@secure-login.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reply is not required for this notification.,phishing
+Verify password now #51,verify@bank-check.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reply is not required for this notification.,phishing
+Cashback deal #31,deals@shop.example,Get a special discount and free shipping on selected products this weekend. Reference id 30006.,promotion
+Password changed #12,billing@service.example,Your monthly invoice is ready and can be viewed in your account dashboard. This message was generated for account 43586.,updates
+Verify password now #19,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 81611.,phishing
+Profile activity #47,updates@community.example,You were invited to join a community discussion. Please keep this email for your records.,social
+Comment notification #51,notifications@social.example,Someone commented on your update in the project group. Sent from automated mail service.,social
+OTP required #43,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reference id 40689.,phishing
+Urgent security alert #33,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reference id 73968.,phishing
+Verify password now #110,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. This message was generated for account 18450.,phishing
+Coupon inside #74,offers@market.example,Get a special discount and free shipping on selected products this weekend. Reply is not required for this notification.,promotion
+Coupon inside #42,offers@market.example,Buy today and save more with our festival offer. Reference id 28776.,promotion
+Urgent security alert #59,support@secure-login.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reply is not required for this notification.,phishing
+Free gift now #22,winner@unknown.example,You have been selected for a lottery reward. Act now to receive cash. Reply is not required for this notification.,spam
+Project follow up #72,friend@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Please keep this email for your records.,primary
+Lottery winner #61,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. This message was generated for account 22499.,spam
+Urgent security alert #111,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reply is not required for this notification.,phishing
+New follower #96,updates@community.example,A colleague sent you a connection request and viewed your profile. Reference id 52096.,social
+Account suspended #105,support@secure-login.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Sent from automated mail service.,phishing
+Coupon inside #98,deals@shop.example,Limited time sale with exclusive deals for members only. Reference id 36174.,promotion
+Account suspended #113,support@secure-login.example,Your bank login is locked. Visit www.account-verify.example and confirm details. This message was generated for account 75028.,phishing
+Urgent security alert #102,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 30658.,phishing
+Free gift now #13,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Please keep this email for your records.,spam
+Meeting notes #48,manager@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. This message was generated for account 42591.,primary
+Cashback deal #93,promo@store.example,Use this coupon code to unlock cashback on your next purchase. Reply is not required for this notification.,promotion
+Weekly sync #101,teammate@example.com,Please review the notes and share your feedback before end of day. This message was generated for account 77561.,primary
+Statement ready #54,billing@service.example,Your package has shipped and the tracking details are now available. Please keep this email for your records.,updates
+Comment notification #57,alerts@network.example,You were invited to join a community discussion. Reference id 71186.,social
+Build completed #19,ci@example.com,Your package has shipped and the tracking details are now available. Reply is not required for this notification.,updates
+New connection request #27,updates@community.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+OTP required #49,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reference id 27973.,phishing
+Document review #43,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Sent from automated mail service.,primary
+Limited offer #57,offers@market.example,Buy today and save more with our festival offer. Sent from automated mail service.,promotion
+Group invite #21,alerts@network.example,You were invited to join a community discussion. Please keep this email for your records.,social
+OTP required #94,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reply is not required for this notification.,phishing
+Cheap medicine offer #86,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Sent from automated mail service.,spam
+Free gift now #58,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! Reference id 63120.,spam
+Account suspended #75,support@secure-login.example,Final notice: account suspended. Confirm OTP and login credential immediately. Please keep this email for your records.,phishing
+Account suspended #57,security-alert@paypa1.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reply is not required for this notification.,phishing
+Verify password now #28,verify@bank-check.example,Unusual activity detected. Update your PIN and password now to restore access. This message was generated for account 42725.,phishing
+New connection request #118,notifications@social.example,You have new followers and reactions on your recent post. Sent from automated mail service.,social
+Weekend sale #6,promo@store.example,Buy today and save more with our festival offer. Please keep this email for your records.,promotion
+Final login notice #50,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reply is not required for this notification.,phishing
+Verify password now #42,security-alert@paypa1.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Please keep this email for your records.,phishing
+Project follow up #8,teammate@example.com,Please review the notes and share your feedback before end of day. Please keep this email for your records.,primary
+Lunch plan #120,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Reference id 38760.,primary
+Exclusive discount #2,deals@shop.example,Get a special discount and free shipping on selected products this weekend. Please keep this email for your records.,promotion
+You won cash #53,claim@prize.example,Buy cheap pills with no prescription and get a free bonus offer today. This message was generated for account 24026.,spam
+Delivery status #28,ci@example.com,Your account statement for this month is ready for download. Reply is not required for this notification.,updates
+Meeting notes #95,manager@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Reply is not required for this notification.,primary
+Invoice available #68,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+New follower #5,notifications@social.example,You have new followers and reactions on your recent post. Please keep this email for your records.,social
+Cashback deal #99,promo@store.example,Get a special discount and free shipping on selected products this weekend. Sent from automated mail service.,promotion
+Exclusive discount #83,promo@store.example,Limited time sale with exclusive deals for members only. Reply is not required for this notification.,promotion
+New connection request #2,updates@community.example,You were invited to join a community discussion. Reference id 27675.,social
+Statement ready #82,no-reply@updates.example,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+You won cash #79,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Sent from automated mail service.,spam
+Exclusive discount #46,offers@market.example,Get a special discount and free shipping on selected products this weekend. Reference id 30392.,promotion
+Coupon inside #5,offers@market.example,Use this coupon code to unlock cashback on your next purchase. Reply is not required for this notification.,promotion
+Limited offer #79,promo@store.example,Buy today and save more with our festival offer. Please keep this email for your records.,promotion
+Statement ready #31,no-reply@updates.example,Your account statement for this month is ready for download. Sent from automated mail service.,updates
+Group invite #100,notifications@social.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+Comment notification #83,notifications@social.example,You have new followers and reactions on your recent post. Please keep this email for your records.,social
+Cashback deal #60,deals@shop.example,Use this coupon code to unlock cashback on your next purchase. Reply is not required for this notification.,promotion
+Document review #28,manager@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Reference id 48469.,primary
+Account suspended #15,support@secure-login.example,Final notice: account suspended. Confirm OTP and login credential immediately. Sent from automated mail service.,phishing
+Password changed #7,billing@service.example,Your account statement for this month is ready for download. Reference id 65255.,updates
+OTP required #60,support@secure-login.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reply is not required for this notification.,phishing
+Profile activity #55,notifications@social.example,Someone commented on your update in the project group. Sent from automated mail service.,social
+New follower #39,updates@community.example,Someone commented on your update in the project group. Reference id 39552.,social
+Coupon inside #101,deals@shop.example,Buy today and save more with our festival offer. Reference id 68893.,promotion
+New follower #109,alerts@network.example,A colleague sent you a connection request and viewed your profile. Please keep this email for your records.,social
+Delivery status #98,no-reply@updates.example,Your package has shipped and the tracking details are now available. This message was generated for account 99539.,updates
+Lunch plan #63,teammate@example.com,I added comments to the document and assigned the open action items. Reference id 27154.,primary
+Limited offer #40,deals@shop.example,Use this coupon code to unlock cashback on your next purchase. Please keep this email for your records.,promotion
+New follower #108,alerts@network.example,You have new followers and reactions on your recent post. Reply is not required for this notification.,social
+Cheap medicine offer #20,claim@prize.example,Buy cheap pills with no prescription and get a free bonus offer today. Reply is not required for this notification.,spam
+Limited offer #108,deals@shop.example,Use this coupon code to unlock cashback on your next purchase. Sent from automated mail service.,promotion
+New follower #24,alerts@network.example,You were invited to join a community discussion. This message was generated for account 25435.,social
+Profile activity #107,alerts@network.example,Someone commented on your update in the project group. This message was generated for account 34219.,social
+Build completed #46,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Sent from automated mail service.,updates
+Password changed #64,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Please keep this email for your records.,updates
+Profile activity #3,notifications@social.example,You have new followers and reactions on your recent post. Reference id 48462.,social
+Weekly sync #59,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reply is not required for this notification.,primary
+Lunch plan #38,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Reference id 98039.,primary
+Coupon inside #68,promo@store.example,Limited time sale with exclusive deals for members only. This message was generated for account 94278.,promotion
+Lunch plan #6,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reply is not required for this notification.,primary
+Weekly sync #9,teammate@example.com,Please review the notes and share your feedback before end of day. Reply is not required for this notification.,primary
+Lottery winner #113,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. Please keep this email for your records.,spam
+Free gift now #117,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. This message was generated for account 66302.,spam
+Lottery winner #31,claim@prize.example,Buy cheap pills with no prescription and get a free bonus offer today. Reply is not required for this notification.,spam
+Profile activity #90,updates@community.example,Someone commented on your update in the project group. Sent from automated mail service.,social
+Prize claim #111,winner@unknown.example,You have been selected for a lottery reward. Act now to receive cash. Reference id 69303.,spam
+Build completed #96,ci@example.com,Your package has shipped and the tracking details are now available. This message was generated for account 79621.,updates
+Coupon inside #90,offers@market.example,Get a special discount and free shipping on selected products this weekend. Please keep this email for your records.,promotion
+Weekly sync #40,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reference id 87110.,primary
+Comment notification #73,notifications@social.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+Lunch plan #113,teammate@example.com,Please review the notes and share your feedback before end of day. This message was generated for account 45614.,primary
+Cashback deal #47,offers@market.example,Buy today and save more with our festival offer. Reply is not required for this notification.,promotion
+Weekend sale #106,promo@store.example,Buy today and save more with our festival offer. This message was generated for account 28035.,promotion
+Free gift now #8,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! Reply is not required for this notification.,spam
+Cheap medicine offer #41,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Reply is not required for this notification.,spam
+Prize claim #73,winner@unknown.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reference id 91083.,spam
+Verify password now #67,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reference id 67342.,phishing
+Lunch plan #87,manager@example.com,I added comments to the document and assigned the open action items. Reference id 25118.,primary
+Weekly sync #3,teammate@example.com,Please review the notes and share your feedback before end of day. Reference id 21395.,primary
+Cheap medicine offer #42,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. Please keep this email for your records.,spam
+Verify password now #114,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+Verify password now #16,support@secure-login.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Sent from automated mail service.,phishing
+Account suspended #48,support@secure-login.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+Project follow up #42,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Prize claim #7,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. This message was generated for account 14159.,spam
+Prize claim #32,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. This message was generated for account 37379.,spam
+Comment notification #58,updates@community.example,You were invited to join a community discussion. This message was generated for account 21802.,social
+Lottery winner #78,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Reference id 83005.,spam
+Password changed #108,ci@example.com,Your package has shipped and the tracking details are now available. Reference id 91381.,updates
+Urgent security alert #71,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. This message was generated for account 77793.,phishing
+Limited offer #94,offers@market.example,Buy today and save more with our festival offer. This message was generated for account 90031.,promotion
+Statement ready #3,ci@example.com,Your monthly invoice is ready and can be viewed in your account dashboard. Reference id 87580.,updates
+Limited offer #41,promo@store.example,Get a special discount and free shipping on selected products this weekend. This message was generated for account 50499.,promotion
+You won cash #46,winner@unknown.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 97584.,spam
+Cashback deal #58,promo@store.example,Get a special discount and free shipping on selected products this weekend. Reply is not required for this notification.,promotion
+Coupon inside #36,deals@shop.example,Use this coupon code to unlock cashback on your next purchase. Reply is not required for this notification.,promotion
+Free gift now #17,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Sent from automated mail service.,spam
+Group invite #59,alerts@network.example,A colleague sent you a connection request and viewed your profile. Reference id 38199.,social
+Password changed #6,no-reply@updates.example,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+Group invite #87,alerts@network.example,You were invited to join a community discussion. Please keep this email for your records.,social
+Statement ready #104,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Reference id 57049.,updates
+Lunch plan #54,teammate@example.com,I added comments to the document and assigned the open action items. Reply is not required for this notification.,primary
+Lunch plan #71,friend@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Please keep this email for your records.,primary
+Weekend sale #56,promo@store.example,Get a special discount and free shipping on selected products this weekend. Reply is not required for this notification.,promotion
+Lottery winner #116,winner@unknown.example,Free gift waiting for you. Click now before the offer expires!!! Sent from automated mail service.,spam
+Weekend sale #10,promo@store.example,Get a special discount and free shipping on selected products this weekend. This message was generated for account 34878.,promotion
+Limited offer #34,offers@market.example,Buy today and save more with our festival offer. Reference id 63845.,promotion
+New connection request #18,notifications@social.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+Invoice available #74,billing@service.example,Your monthly invoice is ready and can be viewed in your account dashboard. Reply is not required for this notification.,updates
+Password changed #5,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. This message was generated for account 16590.,updates
+Urgent security alert #37,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reference id 73614.,phishing
+Lottery winner #40,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Please keep this email for your records.,spam
+Document review #81,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Meeting notes #37,friend@example.com,I added comments to the document and assigned the open action items. Reply is not required for this notification.,primary
+Document review #118,manager@example.com,I added comments to the document and assigned the open action items. Please keep this email for your records.,primary
+Exclusive discount #64,promo@store.example,Limited time sale with exclusive deals for members only. This message was generated for account 76840.,promotion
+Document review #105,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reference id 74799.,primary
+Build completed #102,no-reply@updates.example,Your package has shipped and the tracking details are now available. Reply is not required for this notification.,updates
+New connection request #44,notifications@social.example,A colleague sent you a connection request and viewed your profile. Sent from automated mail service.,social
+Password changed #120,ci@example.com,Your package has shipped and the tracking details are now available. Reference id 83584.,updates
+Exclusive discount #15,offers@market.example,Limited time sale with exclusive deals for members only. This message was generated for account 28964.,promotion
+Verify password now #95,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+Coupon inside #55,offers@market.example,Limited time sale with exclusive deals for members only. Reference id 40161.,promotion
+New connection request #111,alerts@network.example,Someone commented on your update in the project group. This message was generated for account 97528.,social
+Urgent security alert #97,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 69343.,phishing
+Weekly sync #98,friend@example.com,I added comments to the document and assigned the open action items. Reply is not required for this notification.,primary
+Weekend sale #69,promo@store.example,Buy today and save more with our festival offer. Please keep this email for your records.,promotion
+Invoice available #9,billing@service.example,Your package has shipped and the tracking details are now available. This message was generated for account 95426.,updates
+Urgent security alert #40,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Reference id 27290.,phishing
+Coupon inside #39,offers@market.example,Get a special discount and free shipping on selected products this weekend. Sent from automated mail service.,promotion
+Meeting notes #19,friend@example.com,I added comments to the document and assigned the open action items. This message was generated for account 18675.,primary
+Build completed #39,billing@service.example,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+Invoice available #29,billing@service.example,The deployment completed successfully and logs are attached to the build. This message was generated for account 68743.,updates
+Limited offer #8,deals@shop.example,Limited time sale with exclusive deals for members only. Sent from automated mail service.,promotion
+Invoice available #43,billing@service.example,Your package has shipped and the tracking details are now available. Sent from automated mail service.,updates
+Lunch plan #14,teammate@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Cheap medicine offer #38,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. Reply is not required for this notification.,spam
+Verify password now #115,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Please keep this email for your records.,phishing
+Cheap medicine offer #47,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. Reference id 92667.,spam
+Free gift now #55,winner@unknown.example,You have been selected for a lottery reward. Act now to receive cash. Reply is not required for this notification.,spam
+You won cash #1,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Reference id 74071.,spam
+Password changed #80,ci@example.com,Your account statement for this month is ready for download. This message was generated for account 47072.,updates
+Prize claim #85,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Please keep this email for your records.,spam
+Lunch plan #85,manager@example.com,I added comments to the document and assigned the open action items. Please keep this email for your records.,primary
+Delivery status #112,ci@example.com,The deployment completed successfully and logs are attached to the build. Sent from automated mail service.,updates
+Weekly sync #79,teammate@example.com,Can we move our meeting to tomorrow afternoon after the planning call? This message was generated for account 56357.,primary
+Profile activity #56,notifications@social.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Coupon inside #73,offers@market.example,Buy today and save more with our festival offer. Reply is not required for this notification.,promotion
+Password changed #99,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Reference id 70443.,updates
+Verify password now #58,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Sent from automated mail service.,phishing
+Invoice available #117,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Please keep this email for your records.,updates
+Profile activity #94,notifications@social.example,You have new followers and reactions on your recent post. Reply is not required for this notification.,social
+Cashback deal #1,offers@market.example,Limited time sale with exclusive deals for members only. Reply is not required for this notification.,promotion
+Urgent security alert #46,security-alert@paypa1.example,Your bank login is locked. Visit www.account-verify.example and confirm details. This message was generated for account 11056.,phishing
+Exclusive discount #13,offers@market.example,Use this coupon code to unlock cashback on your next purchase. This message was generated for account 82641.,promotion
+Verify password now #90,verify@bank-check.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reply is not required for this notification.,phishing
+Password changed #101,ci@example.com,The deployment completed successfully and logs are attached to the build. Reply is not required for this notification.,updates
+Exclusive discount #89,deals@shop.example,Limited time sale with exclusive deals for members only. Reference id 28030.,promotion
+Lottery winner #39,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. Reference id 15992.,spam
+Coupon inside #97,offers@market.example,Buy today and save more with our festival offer. This message was generated for account 60052.,promotion
+Profile activity #116,notifications@social.example,A colleague sent you a connection request and viewed your profile. Sent from automated mail service.,social
+Project follow up #25,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Sent from automated mail service.,primary
+Group invite #65,alerts@network.example,A colleague sent you a connection request and viewed your profile. This message was generated for account 69028.,social
+Urgent security alert #30,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reply is not required for this notification.,phishing
+Delivery status #23,no-reply@updates.example,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+Free gift now #106,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Please keep this email for your records.,spam
+You won cash #18,winner@unknown.example,You have been selected for a lottery reward. Act now to receive cash. This message was generated for account 38477.,spam
+Comment notification #75,alerts@network.example,You have new followers and reactions on your recent post. Reference id 88238.,social
+Weekend sale #37,promo@store.example,Limited time sale with exclusive deals for members only. Reference id 39392.,promotion
+Project follow up #92,friend@example.com,I added comments to the document and assigned the open action items. Sent from automated mail service.,primary
+OTP required #8,verify@bank-check.example,Final notice: account suspended. Confirm OTP and login credential immediately. Sent from automated mail service.,phishing
+Group invite #17,updates@community.example,You were invited to join a community discussion. Reference id 28714.,social
+Statement ready #81,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Please keep this email for your records.,updates
+Profile activity #77,notifications@social.example,A colleague sent you a connection request and viewed your profile. This message was generated for account 99224.,social
+Password changed #17,billing@service.example,The deployment completed successfully and logs are attached to the build. Reference id 66148.,updates
+Statement ready #56,no-reply@updates.example,Your account statement for this month is ready for download. Reference id 87993.,updates
+Project follow up #57,friend@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Sent from automated mail service.,primary
+Statement ready #63,no-reply@updates.example,Your account statement for this month is ready for download. Reference id 33788.,updates
+Password changed #66,ci@example.com,Your account statement for this month is ready for download. Sent from automated mail service.,updates
+Weekly sync #88,teammate@example.com,I added comments to the document and assigned the open action items. Please keep this email for your records.,primary
+Meeting notes #49,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. This message was generated for account 65296.,primary
+New follower #86,alerts@network.example,A colleague sent you a connection request and viewed your profile. Sent from automated mail service.,social
+Profile activity #42,updates@community.example,You have new followers and reactions on your recent post. This message was generated for account 94015.,social
+Account suspended #27,support@secure-login.example,Final notice: account suspended. Confirm OTP and login credential immediately. This message was generated for account 63948.,phishing
+Delivery status #30,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Reply is not required for this notification.,updates
+Project follow up #10,teammate@example.com,Please review the notes and share your feedback before end of day. Sent from automated mail service.,primary
+Coupon inside #84,offers@market.example,Get a special discount and free shipping on selected products this weekend. Please keep this email for your records.,promotion
+Lottery winner #54,claim@prize.example,You have been selected for a lottery reward. Act now to receive cash. Please keep this email for your records.,spam
+New follower #15,updates@community.example,A colleague sent you a connection request and viewed your profile. Reference id 67008.,social
+Prize claim #93,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. Reply is not required for this notification.,spam
+Password changed #113,billing@service.example,The deployment completed successfully and logs are attached to the build. Reply is not required for this notification.,updates
+Document review #67,friend@example.com,I added comments to the document and assigned the open action items. Sent from automated mail service.,primary
+New follower #53,alerts@network.example,You have new followers and reactions on your recent post. This message was generated for account 26059.,social
+Cashback deal #115,deals@shop.example,Get a special discount and free shipping on selected products this weekend. Sent from automated mail service.,promotion
+Delivery status #48,ci@example.com,Your package has shipped and the tracking details are now available. Please keep this email for your records.,updates
+Final login notice #98,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reference id 27840.,phishing
+Cheap medicine offer #95,claim@prize.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reply is not required for this notification.,spam
+Lunch plan #36,friend@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. This message was generated for account 31643.,primary
+Lottery winner #51,claim@prize.example,You have been selected for a lottery reward. Act now to receive cash. Sent from automated mail service.,spam
+Account suspended #89,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Please keep this email for your records.,phishing
+Prize claim #36,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. Please keep this email for your records.,spam
+New connection request #120,updates@community.example,You have new followers and reactions on your recent post. Sent from automated mail service.,social
+Verify password now #87,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reply is not required for this notification.,phishing
+Delivery status #88,billing@service.example,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+New follower #22,notifications@social.example,A colleague sent you a connection request and viewed your profile. Reference id 95139.,social
+Password changed #100,ci@example.com,Your package has shipped and the tracking details are now available. Reference id 70981.,updates
+Prize claim #75,winner@unknown.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reference id 51507.,spam
+Coupon inside #63,offers@market.example,Get a special discount and free shipping on selected products this weekend. Sent from automated mail service.,promotion
+Verify password now #23,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reference id 90760.,phishing
+Verify password now #5,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 25448.,phishing
+Build completed #76,no-reply@updates.example,Your account statement for this month is ready for download. This message was generated for account 45838.,updates
+Coupon inside #66,deals@shop.example,Get a special discount and free shipping on selected products this weekend. This message was generated for account 32740.,promotion
+Urgent security alert #76,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 30618.,phishing
+Exclusive discount #113,offers@market.example,Use this coupon code to unlock cashback on your next purchase. Please keep this email for your records.,promotion
+Coupon inside #26,promo@store.example,Buy today and save more with our festival offer. Sent from automated mail service.,promotion
+Urgent security alert #63,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reply is not required for this notification.,phishing
+Coupon inside #21,deals@shop.example,Limited time sale with exclusive deals for members only. Reply is not required for this notification.,promotion
+Group invite #80,notifications@social.example,Someone commented on your update in the project group. Reply is not required for this notification.,social
+Comment notification #49,alerts@network.example,You were invited to join a community discussion. This message was generated for account 67619.,social
+New follower #11,notifications@social.example,A colleague sent you a connection request and viewed your profile. Please keep this email for your records.,social
+Meeting notes #33,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Sent from automated mail service.,primary
+Verify password now #103,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Please keep this email for your records.,phishing
+Free gift now #62,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reference id 84289.,spam
+Password changed #33,billing@service.example,Your monthly invoice is ready and can be viewed in your account dashboard. This message was generated for account 50189.,updates
+Account suspended #14,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 31922.,phishing
+Group invite #101,updates@community.example,You were invited to join a community discussion. This message was generated for account 69552.,social
+Weekend sale #22,deals@shop.example,Buy today and save more with our festival offer. Reply is not required for this notification.,promotion
+Verify password now #69,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 97304.,phishing
+Project follow up #53,manager@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Reference id 62565.,primary
+Weekend sale #81,offers@market.example,Buy today and save more with our festival offer. Please keep this email for your records.,promotion
+Comment notification #66,alerts@network.example,Someone commented on your update in the project group. Sent from automated mail service.,social
+Build completed #35,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Reference id 38361.,updates
+Free gift now #30,claim@prize.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reference id 45187.,spam
+Project follow up #112,friend@example.com,I added comments to the document and assigned the open action items. This message was generated for account 67654.,primary
+Free gift now #9,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. Please keep this email for your records.,spam
+Invoice available #116,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. Please keep this email for your records.,updates
+OTP required #38,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 23051.,phishing
+Account suspended #82,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Sent from automated mail service.,phishing
+Urgent security alert #41,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Please keep this email for your records.,phishing
+OTP required #39,security-alert@paypa1.example,Your bank login is locked. Visit www.account-verify.example and confirm details. This message was generated for account 67840.,phishing
+Invoice available #37,ci@example.com,Your package has shipped and the tracking details are now available. Please keep this email for your records.,updates
+Statement ready #10,billing@service.example,Your package has shipped and the tracking details are now available. This message was generated for account 12671.,updates
+Document review #115,teammate@example.com,I added comments to the document and assigned the open action items. Sent from automated mail service.,primary
+Coupon inside #50,promo@store.example,Limited time sale with exclusive deals for members only. Reference id 47125.,promotion
+Exclusive discount #95,promo@store.example,Buy today and save more with our festival offer. This message was generated for account 79993.,promotion
+Weekly sync #68,manager@example.com,I added comments to the document and assigned the open action items. Reference id 95717.,primary
+Prize claim #89,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. Reply is not required for this notification.,spam
+Weekly sync #5,teammate@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reply is not required for this notification.,primary
+New follower #12,alerts@network.example,You were invited to join a community discussion. Sent from automated mail service.,social
+You won cash #118,claim@prize.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Sent from automated mail service.,spam
+Statement ready #90,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Reply is not required for this notification.,updates
+Weekend sale #118,promo@store.example,Get a special discount and free shipping on selected products this weekend. Please keep this email for your records.,promotion
+Document review #106,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Sent from automated mail service.,primary
+Cheap medicine offer #28,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reply is not required for this notification.,spam
+Urgent security alert #54,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Please keep this email for your records.,phishing
+Document review #110,teammate@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Comment notification #34,updates@community.example,A colleague sent you a connection request and viewed your profile. This message was generated for account 63843.,social
+Cashback deal #67,promo@store.example,Buy today and save more with our festival offer. Sent from automated mail service.,promotion
+OTP required #9,support@secure-login.example,Final notice: account suspended. Confirm OTP and login credential immediately. This message was generated for account 31871.,phishing
+Statement ready #78,ci@example.com,Your package has shipped and the tracking details are now available. Reference id 88561.,updates
+Free gift now #114,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Reply is not required for this notification.,spam
+Account suspended #55,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Reference id 94491.,phishing
+Document review #47,friend@example.com,I added comments to the document and assigned the open action items. Reference id 17944.,primary
+New follower #110,updates@community.example,You have new followers and reactions on your recent post. Reference id 95679.,social
+Lottery winner #49,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! Reference id 90980.,spam
+Profile activity #45,updates@community.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Urgent security alert #32,verify@bank-check.example,Unusual activity detected. Update your PIN and password now to restore access. Reply is not required for this notification.,phishing
+Lottery winner #27,winner@unknown.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 83044.,spam
+Lottery winner #48,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. Reference id 38668.,spam
+Profile activity #32,updates@community.example,A colleague sent you a connection request and viewed your profile. Reference id 82305.,social
+Verify password now #92,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Please keep this email for your records.,phishing
+Urgent security alert #34,security-alert@paypa1.example,Your bank login is locked. Visit www.account-verify.example and confirm details. This message was generated for account 70089.,phishing
+Profile activity #79,alerts@network.example,You were invited to join a community discussion. Reference id 64127.,social
+Coupon inside #11,deals@shop.example,Get a special discount and free shipping on selected products this weekend. Please keep this email for your records.,promotion
+Comment notification #76,notifications@social.example,You were invited to join a community discussion. This message was generated for account 86483.,social
+Build completed #4,billing@service.example,Your account statement for this month is ready for download. This message was generated for account 94246.,updates
+Meeting notes #16,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Please keep this email for your records.,primary
+Document review #64,friend@example.com,Please review the notes and share your feedback before end of day. Reference id 11220.,primary
+You won cash #112,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. This message was generated for account 25084.,spam
+Weekend sale #19,promo@store.example,Buy today and save more with our festival offer. Please keep this email for your records.,promotion
+Build completed #118,ci@example.com,The deployment completed successfully and logs are attached to the build. Reference id 86619.,updates
+Build completed #69,billing@service.example,Your package has shipped and the tracking details are now available. Sent from automated mail service.,updates
+Build completed #21,no-reply@updates.example,Your account statement for this month is ready for download. Sent from automated mail service.,updates
+Lunch plan #102,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? This message was generated for account 98184.,primary
+Final login notice #120,support@secure-login.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Please keep this email for your records.,phishing
+Comment notification #16,alerts@network.example,You have new followers and reactions on your recent post. Reference id 97973.,social
+Password changed #114,billing@service.example,Your account statement for this month is ready for download. Reference id 48684.,updates
+Weekly sync #17,manager@example.com,I added comments to the document and assigned the open action items. Reference id 93886.,primary
+Invoice available #8,no-reply@updates.example,Your package has shipped and the tracking details are now available. Reference id 80702.,updates
+Weekly sync #30,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? This message was generated for account 93748.,primary
+Verify password now #106,security-alert@paypa1.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reference id 82105.,phishing
+Profile activity #91,notifications@social.example,You have new followers and reactions on your recent post. This message was generated for account 45601.,social
+Profile activity #30,notifications@social.example,You were invited to join a community discussion. Reference id 36342.,social
+Project follow up #15,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Sent from automated mail service.,primary
+Limited offer #52,deals@shop.example,Use this coupon code to unlock cashback on your next purchase. Please keep this email for your records.,promotion
+Cashback deal #29,promo@store.example,Buy today and save more with our festival offer. Reference id 54424.,promotion
+Prize claim #120,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Sent from automated mail service.,spam
+Cheap medicine offer #34,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Sent from automated mail service.,spam
+Coupon inside #20,deals@shop.example,Buy today and save more with our festival offer. Sent from automated mail service.,promotion
+Group invite #9,alerts@network.example,A colleague sent you a connection request and viewed your profile. Reply is not required for this notification.,social
+Urgent security alert #22,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. This message was generated for account 87060.,phishing
+Project follow up #82,teammate@example.com,Please review the notes and share your feedback before end of day. Reply is not required for this notification.,primary
+Limited offer #24,offers@market.example,Use this coupon code to unlock cashback on your next purchase. Reference id 20589.,promotion
+Verify password now #88,verify@bank-check.example,Unusual activity detected. Update your PIN and password now to restore access. Reference id 13133.,phishing
+Prize claim #35,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! Sent from automated mail service.,spam
+New connection request #104,updates@community.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+New connection request #35,alerts@network.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Statement ready #89,ci@example.com,Your account statement for this month is ready for download. Reference id 54375.,updates
+Comment notification #93,alerts@network.example,You were invited to join a community discussion. Reference id 23133.,social
+Verify password now #25,support@secure-login.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+Project follow up #97,teammate@example.com,I added comments to the document and assigned the open action items. This message was generated for account 81819.,primary
+You won cash #33,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 34906.,spam
+Verify password now #44,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 10142.,phishing
+Verify password now #45,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reference id 87814.,phishing
+Invoice available #94,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. Please keep this email for your records.,updates
+OTP required #52,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reference id 90750.,phishing
+You won cash #88,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. Sent from automated mail service.,spam
+Urgent security alert #18,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reply is not required for this notification.,phishing
+Comment notification #114,notifications@social.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Lunch plan #69,manager@example.com,Please review the notes and share your feedback before end of day. Sent from automated mail service.,primary
+Account suspended #68,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Please keep this email for your records.,phishing
+Lottery winner #66,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 61007.,spam
+Cheap medicine offer #91,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. This message was generated for account 89064.,spam
+Free gift now #43,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Please keep this email for your records.,spam
+Exclusive discount #12,offers@market.example,Use this coupon code to unlock cashback on your next purchase. Reference id 41925.,promotion
+Build completed #24,no-reply@updates.example,Your package has shipped and the tracking details are now available. Reply is not required for this notification.,updates
+Build completed #40,no-reply@updates.example,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+Password changed #36,billing@service.example,The deployment completed successfully and logs are attached to the build. This message was generated for account 35443.,updates
+Delivery status #53,no-reply@updates.example,Your package has shipped and the tracking details are now available. Reply is not required for this notification.,updates
+Weekly sync #11,teammate@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reference id 48427.,primary
+Password changed #71,ci@example.com,Your package has shipped and the tracking details are now available. Please keep this email for your records.,updates
+You won cash #26,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Reply is not required for this notification.,spam
+Comment notification #115,updates@community.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Weekly sync #26,teammate@example.com,Please review the notes and share your feedback before end of day. Reference id 71348.,primary
+Delivery status #2,ci@example.com,Your monthly invoice is ready and can be viewed in your account dashboard. Reply is not required for this notification.,updates
+Weekend sale #114,offers@market.example,Limited time sale with exclusive deals for members only. This message was generated for account 66261.,promotion
+Invoice available #50,billing@service.example,Your monthly invoice is ready and can be viewed in your account dashboard. Reply is not required for this notification.,updates
+Group invite #112,updates@community.example,Someone commented on your update in the project group. Reference id 63138.,social
+Free gift now #37,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reply is not required for this notification.,spam
+Statement ready #86,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. Reply is not required for this notification.,updates
+OTP required #10,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Please keep this email for your records.,phishing
+Verify password now #62,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reply is not required for this notification.,phishing
+Comment notification #33,updates@community.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Account suspended #79,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. This message was generated for account 33456.,phishing
+Document review #74,friend@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Sent from automated mail service.,primary
+Account suspended #64,verify@bank-check.example,Final notice: account suspended. Confirm OTP and login credential immediately. Please keep this email for your records.,phishing
+Profile activity #67,notifications@social.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Comment notification #95,alerts@network.example,You have new followers and reactions on your recent post. Please keep this email for your records.,social
+Document review #20,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. This message was generated for account 95909.,primary
+Account suspended #93,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Sent from automated mail service.,phishing
+Limited offer #72,promo@store.example,Get a special discount and free shipping on selected products this weekend. Reference id 17456.,promotion
+Profile activity #105,notifications@social.example,You were invited to join a community discussion. Reply is not required for this notification.,social
+Limited offer #9,deals@shop.example,Buy today and save more with our festival offer. Please keep this email for your records.,promotion
+Coupon inside #96,promo@store.example,Buy today and save more with our festival offer. Please keep this email for your records.,promotion
+Statement ready #77,billing@service.example,Your account statement for this month is ready for download. This message was generated for account 69871.,updates
+Statement ready #16,billing@service.example,The deployment completed successfully and logs are attached to the build. Sent from automated mail service.,updates
+Cheap medicine offer #74,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Reply is not required for this notification.,spam
+You won cash #16,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. This message was generated for account 87849.,spam
+Cheap medicine offer #2,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Reply is not required for this notification.,spam
+Invoice available #27,billing@service.example,Your account statement for this month is ready for download. Reply is not required for this notification.,updates
+New connection request #63,updates@community.example,You have new followers and reactions on your recent post. Please keep this email for your records.,social
+You won cash #45,claim@prize.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reference id 81058.,spam
+Profile activity #40,updates@community.example,Someone commented on your update in the project group. This message was generated for account 42847.,social
+Prize claim #109,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Sent from automated mail service.,spam
+You won cash #77,winner@unknown.example,Free gift waiting for you. Click now before the offer expires!!! Reply is not required for this notification.,spam
+Document review #52,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. This message was generated for account 31798.,primary
+Profile activity #29,alerts@network.example,You have new followers and reactions on your recent post. Reference id 30644.,social
+Lottery winner #50,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Reference id 10866.,spam
+Free gift now #103,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! Reference id 94545.,spam
+Cashback deal #51,offers@market.example,Get a special discount and free shipping on selected products this weekend. Reference id 38903.,promotion
+Comment notification #81,alerts@network.example,You have new followers and reactions on your recent post. Reply is not required for this notification.,social
+Cheap medicine offer #87,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. This message was generated for account 90828.,spam
+Invoice available #93,no-reply@updates.example,Your package has shipped and the tracking details are now available. Please keep this email for your records.,updates
+Account suspended #74,support@secure-login.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Sent from automated mail service.,phishing
+Cheap medicine offer #44,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 32185.,spam
+Urgent security alert #24,verify@bank-check.example,Unusual activity detected. Update your PIN and password now to restore access. Sent from automated mail service.,phishing
+Verify password now #112,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reply is not required for this notification.,phishing
+Cashback deal #61,offers@market.example,Get a special discount and free shipping on selected products this weekend. Reply is not required for this notification.,promotion
+Coupon inside #80,deals@shop.example,Limited time sale with exclusive deals for members only. Reference id 98984.,promotion
+Final login notice #109,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reference id 86326.,phishing
+Prize claim #65,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. Sent from automated mail service.,spam
+Lunch plan #7,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Delivery status #115,ci@example.com,Your account statement for this month is ready for download. Sent from automated mail service.,updates
+Cashback deal #27,deals@shop.example,Get a special discount and free shipping on selected products this weekend. Sent from automated mail service.,promotion
+Password changed #22,billing@service.example,Your monthly invoice is ready and can be viewed in your account dashboard. Please keep this email for your records.,updates
+Prize claim #101,claim@prize.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reference id 14818.,spam
+Weekend sale #43,deals@shop.example,Use this coupon code to unlock cashback on your next purchase. Reply is not required for this notification.,promotion
+Invoice available #84,no-reply@updates.example,Your account statement for this month is ready for download. Reply is not required for this notification.,updates
+Limited offer #45,offers@market.example,Get a special discount and free shipping on selected products this weekend. Reference id 50846.,promotion
+Lottery winner #6,winner@unknown.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reply is not required for this notification.,spam
+Project follow up #45,manager@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Please keep this email for your records.,primary
+Verify password now #85,support@secure-login.example,Unusual activity detected. Update your PIN and password now to restore access. Sent from automated mail service.,phishing
+Group invite #117,updates@community.example,Someone commented on your update in the project group. Reference id 68556.,social
+Profile activity #13,updates@community.example,You were invited to join a community discussion. Please keep this email for your records.,social
+Account suspended #107,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 28322.,phishing
+Invoice available #13,ci@example.com,Your monthly invoice is ready and can be viewed in your account dashboard. Please keep this email for your records.,updates
+Lottery winner #69,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Please keep this email for your records.,spam
+New connection request #68,notifications@social.example,You have new followers and reactions on your recent post. Please keep this email for your records.,social
+New follower #99,notifications@social.example,A colleague sent you a connection request and viewed your profile. Please keep this email for your records.,social
+Coupon inside #82,deals@shop.example,Limited time sale with exclusive deals for members only. Reference id 43029.,promotion
+New follower #62,alerts@network.example,Someone commented on your update in the project group. Reference id 44664.,social
+Verify password now #80,support@secure-login.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+Invoice available #103,billing@service.example,Your account statement for this month is ready for download. Sent from automated mail service.,updates
+Limited offer #110,deals@shop.example,Get a special discount and free shipping on selected products this weekend. This message was generated for account 41147.,promotion
+New follower #113,alerts@network.example,You have new followers and reactions on your recent post. This message was generated for account 93717.,social
+Invoice available #97,ci@example.com,Your account statement for this month is ready for download. Sent from automated mail service.,updates
+Weekly sync #22,teammate@example.com,I added comments to the document and assigned the open action items. This message was generated for account 66155.,primary
+Meeting notes #65,friend@example.com,I added comments to the document and assigned the open action items. This message was generated for account 80468.,primary
+OTP required #101,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reference id 50410.,phishing
+Prize claim #83,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. Reply is not required for this notification.,spam
+Weekly sync #109,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. This message was generated for account 90301.,primary
+Weekly sync #86,teammate@example.com,I added comments to the document and assigned the open action items. Reference id 94080.,primary
+Weekly sync #89,friend@example.com,Please review the notes and share your feedback before end of day. Reply is not required for this notification.,primary
+Password changed #110,ci@example.com,Your package has shipped and the tracking details are now available. Reference id 85965.,updates
+Lottery winner #56,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. Please keep this email for your records.,spam
+Lunch plan #62,manager@example.com,I added comments to the document and assigned the open action items. Reply is not required for this notification.,primary
+Prize claim #92,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! Sent from automated mail service.,spam
+Cashback deal #78,promo@store.example,Use this coupon code to unlock cashback on your next purchase. Please keep this email for your records.,promotion
+You won cash #84,winner@unknown.example,Free gift waiting for you. Click now before the offer expires!!! Please keep this email for your records.,spam
+New follower #106,notifications@social.example,You were invited to join a community discussion. Reference id 77538.,social
+Group invite #50,notifications@social.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+Limited offer #25,offers@market.example,Limited time sale with exclusive deals for members only. Reply is not required for this notification.,promotion
+Comment notification #102,alerts@network.example,You have new followers and reactions on your recent post. Reference id 76088.,social
+Limited offer #53,deals@shop.example,Get a special discount and free shipping on selected products this weekend. Reply is not required for this notification.,promotion
+Weekend sale #18,deals@shop.example,Buy today and save more with our festival offer. Sent from automated mail service.,promotion
+Project follow up #18,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Please keep this email for your records.,primary
+Verify password now #35,support@secure-login.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+Account suspended #53,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Please keep this email for your records.,phishing
+Account suspended #20,support@secure-login.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+Delivery status #83,ci@example.com,Your account statement for this month is ready for download. This message was generated for account 34727.,updates
+Project follow up #41,manager@example.com,Please review the notes and share your feedback before end of day. Reference id 19305.,primary
+Invoice available #34,ci@example.com,Your package has shipped and the tracking details are now available. This message was generated for account 51359.,updates
+Profile activity #119,notifications@social.example,Someone commented on your update in the project group. Sent from automated mail service.,social
+Password changed #1,ci@example.com,Your account statement for this month is ready for download. This message was generated for account 60968.,updates
+Group invite #92,notifications@social.example,You have new followers and reactions on your recent post. Reference id 16653.,social
+Exclusive discount #54,deals@shop.example,Buy today and save more with our festival offer. Sent from automated mail service.,promotion
+Free gift now #68,winner@unknown.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Please keep this email for your records.,spam
+New follower #84,notifications@social.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+Coupon inside #112,offers@market.example,Get a special discount and free shipping on selected products this weekend. Sent from automated mail service.,promotion
+Coupon inside #35,promo@store.example,Limited time sale with exclusive deals for members only. Reference id 47700.,promotion
+Final login notice #2,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+You won cash #94,claim@prize.example,Buy cheap pills with no prescription and get a free bonus offer today. Sent from automated mail service.,spam
+Lottery winner #72,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Reference id 99088.,spam
+Build completed #79,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Reference id 46208.,updates
+Group invite #71,updates@community.example,Someone commented on your update in the project group. Sent from automated mail service.,social
+Prize claim #24,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Sent from automated mail service.,spam
+Cashback deal #44,promo@store.example,Use this coupon code to unlock cashback on your next purchase. Please keep this email for your records.,promotion
+Weekly sync #117,friend@example.com,Please review the notes and share your feedback before end of day. Sent from automated mail service.,primary
+You won cash #57,claim@prize.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reference id 99658.,spam
+You won cash #108,claim@prize.example,Buy cheap pills with no prescription and get a free bonus offer today. Please keep this email for your records.,spam
+You won cash #52,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 47576.,spam
+Coupon inside #38,deals@shop.example,Buy today and save more with our festival offer. Sent from automated mail service.,promotion
+New connection request #54,alerts@network.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Password changed #57,ci@example.com,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+Cashback deal #103,offers@market.example,Limited time sale with exclusive deals for members only. This message was generated for account 16980.,promotion
+Document review #44,manager@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Reply is not required for this notification.,primary
+Cheap medicine offer #115,winner@unknown.example,Free gift waiting for you. Click now before the offer expires!!! Reply is not required for this notification.,spam
+Cashback deal #102,promo@store.example,Get a special discount and free shipping on selected products this weekend. Reply is not required for this notification.,promotion
+Weekend sale #117,offers@market.example,Buy today and save more with our festival offer. Please keep this email for your records.,promotion
+Profile activity #26,notifications@social.example,You were invited to join a community discussion. This message was generated for account 26074.,social
+Meeting notes #78,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reference id 56898.,primary
+Cheap medicine offer #82,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 78302.,spam
+Prize claim #70,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 13883.,spam
+Build completed #18,billing@service.example,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+Group invite #69,alerts@network.example,You have new followers and reactions on your recent post. Sent from automated mail service.,social
+Document review #116,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reply is not required for this notification.,primary
+Delivery status #15,billing@service.example,The deployment completed successfully and logs are attached to the build. Sent from automated mail service.,updates
+Final login notice #104,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Please keep this email for your records.,phishing
+Invoice available #106,ci@example.com,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+Cashback deal #30,promo@store.example,Limited time sale with exclusive deals for members only. Please keep this email for your records.,promotion
+Document review #46,teammate@example.com,Please review the notes and share your feedback before end of day. Reference id 65519.,primary
+Group invite #97,notifications@social.example,A colleague sent you a connection request and viewed your profile. This message was generated for account 95498.,social
+Build completed #72,billing@service.example,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+Group invite #19,notifications@social.example,You have new followers and reactions on your recent post. Reply is not required for this notification.,social
+Group invite #31,updates@community.example,Someone commented on your update in the project group. Reply is not required for this notification.,social
+New follower #20,alerts@network.example,A colleague sent you a connection request and viewed your profile. Sent from automated mail service.,social
+Statement ready #70,no-reply@updates.example,Your account statement for this month is ready for download. Reference id 57419.,updates
+Group invite #37,notifications@social.example,A colleague sent you a connection request and viewed your profile. Sent from automated mail service.,social
+Document review #94,teammate@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Please keep this email for your records.,primary
+Lottery winner #71,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 56636.,spam
+Prize claim #21,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. Reply is not required for this notification.,spam
+You won cash #3,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Please keep this email for your records.,spam
+New connection request #48,updates@community.example,A colleague sent you a connection request and viewed your profile. This message was generated for account 69446.,social
+Weekend sale #76,promo@store.example,Get a special discount and free shipping on selected products this weekend. Please keep this email for your records.,promotion
+Document review #119,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reply is not required for this notification.,primary
+You won cash #5,winner@unknown.example,Free gift waiting for you. Click now before the offer expires!!! Please keep this email for your records.,spam
+Meeting notes #84,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reply is not required for this notification.,primary
+Limited offer #59,deals@shop.example,Buy today and save more with our festival offer. Please keep this email for your records.,promotion
+Lottery winner #90,winner@unknown.example,You have been selected for a lottery reward. Act now to receive cash. Please keep this email for your records.,spam
+Password changed #92,billing@service.example,Your monthly invoice is ready and can be viewed in your account dashboard. Reply is not required for this notification.,updates
+OTP required #119,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Please keep this email for your records.,phishing
+Meeting notes #100,friend@example.com,Please review the notes and share your feedback before end of day. Please keep this email for your records.,primary
+Delivery status #85,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. This message was generated for account 60604.,updates
+Lottery winner #12,sales@random.example,Free gift waiting for you. Click now before the offer expires!!! This message was generated for account 70686.,spam
+OTP required #83,security-alert@paypa1.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Please keep this email for your records.,phishing
+Meeting notes #90,teammate@example.com,Please review the notes and share your feedback before end of day. Reply is not required for this notification.,primary
+Comment notification #78,alerts@network.example,You were invited to join a community discussion. This message was generated for account 12482.,social
+Meeting notes #4,manager@example.com,Please review the notes and share your feedback before end of day. Sent from automated mail service.,primary
+Comment notification #10,updates@community.example,You have new followers and reactions on your recent post. Sent from automated mail service.,social
+Project follow up #56,friend@example.com,Please review the notes and share your feedback before end of day. Please keep this email for your records.,primary
+Invoice available #38,ci@example.com,The deployment completed successfully and logs are attached to the build. This message was generated for account 15965.,updates
+Account suspended #77,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 76692.,phishing
+Group invite #43,updates@community.example,Someone commented on your update in the project group. Sent from automated mail service.,social
+Weekly sync #51,manager@example.com,Please review the notes and share your feedback before end of day. This message was generated for account 95477.,primary
+Document review #99,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Sent from automated mail service.,primary
+OTP required #11,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reply is not required for this notification.,phishing
+Weekend sale #65,deals@shop.example,Limited time sale with exclusive deals for members only. This message was generated for account 40968.,promotion
+Weekend sale #49,promo@store.example,Buy today and save more with our festival offer. Reference id 77154.,promotion
+Final login notice #3,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Sent from automated mail service.,phishing
+Comment notification #60,updates@community.example,You were invited to join a community discussion. Please keep this email for your records.,social
+Delivery status #75,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Sent from automated mail service.,updates
+Invoice available #91,ci@example.com,Your monthly invoice is ready and can be viewed in your account dashboard. This message was generated for account 80912.,updates
+OTP required #13,support@secure-login.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reply is not required for this notification.,phishing
+You won cash #104,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Sent from automated mail service.,spam
+Document review #55,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Invoice available #41,no-reply@updates.example,Your account statement for this month is ready for download. Reference id 34164.,updates
+Comment notification #85,alerts@network.example,You were invited to join a community discussion. Please keep this email for your records.,social
+Invoice available #49,billing@service.example,Your package has shipped and the tracking details are now available. This message was generated for account 96563.,updates
+New follower #82,updates@community.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+Document review #32,manager@example.com,Please review the notes and share your feedback before end of day. Please keep this email for your records.,primary
+Cheap medicine offer #15,winner@unknown.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reference id 12050.,spam
+Cashback deal #107,offers@market.example,Get a special discount and free shipping on selected products this weekend. Reference id 71487.,promotion
+Meeting notes #96,friend@example.com,I added comments to the document and assigned the open action items. Reply is not required for this notification.,primary
+Free gift now #81,winner@unknown.example,Buy cheap pills with no prescription and get a free bonus offer today. Sent from automated mail service.,spam
+Project follow up #77,teammate@example.com,I added comments to the document and assigned the open action items. Reference id 26704.,primary
+Statement ready #45,ci@example.com,Your package has shipped and the tracking details are now available. Sent from automated mail service.,updates
+Lottery winner #105,claim@prize.example,Buy cheap pills with no prescription and get a free bonus offer today. Reply is not required for this notification.,spam
+Invoice available #55,billing@service.example,Your package has shipped and the tracking details are now available. Please keep this email for your records.,updates
+Coupon inside #111,promo@store.example,Get a special discount and free shipping on selected products this weekend. Reference id 65027.,promotion
+Free gift now #99,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Sent from automated mail service.,spam
+Meeting notes #108,teammate@example.com,I added comments to the document and assigned the open action items. Reply is not required for this notification.,primary
+Cashback deal #28,promo@store.example,Use this coupon code to unlock cashback on your next purchase. Reply is not required for this notification.,promotion
+Final login notice #118,security-alert@paypa1.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reply is not required for this notification.,phishing
+Verify password now #70,support@secure-login.example,Unusual activity detected. Update your PIN and password now to restore access. Sent from automated mail service.,phishing
+Urgent security alert #36,verify@bank-check.example,Final notice: account suspended. Confirm OTP and login credential immediately. Sent from automated mail service.,phishing
+Meeting notes #35,manager@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Sent from automated mail service.,primary
+Lunch plan #76,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reply is not required for this notification.,primary
+Profile activity #103,updates@community.example,You were invited to join a community discussion. Please keep this email for your records.,social
+Password changed #47,ci@example.com,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+Password changed #111,ci@example.com,Your account statement for this month is ready for download. This message was generated for account 48680.,updates
+Cheap medicine offer #11,winner@unknown.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Please keep this email for your records.,spam
+Account suspended #47,security-alert@paypa1.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reference id 72613.,phishing
+New follower #25,updates@community.example,You were invited to join a community discussion. This message was generated for account 90199.,social
+Prize claim #80,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Please keep this email for your records.,spam
+Limited offer #120,offers@market.example,Limited time sale with exclusive deals for members only. This message was generated for account 15811.,promotion
+Account suspended #31,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reply is not required for this notification.,phishing
+Final login notice #81,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Sent from automated mail service.,phishing
+New follower #64,notifications@social.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Statement ready #51,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Reference id 69048.,updates
+Profile activity #70,alerts@network.example,Someone commented on your update in the project group. This message was generated for account 77568.,social
+Comment notification #89,updates@community.example,Someone commented on your update in the project group. Reply is not required for this notification.,social
+Profile activity #36,updates@community.example,You have new followers and reactions on your recent post. This message was generated for account 55156.,social
+Document review #50,friend@example.com,Please review the notes and share your feedback before end of day. Reference id 19880.,primary
+Urgent security alert #26,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. This message was generated for account 85069.,phishing
+Document review #111,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Weekend sale #23,promo@store.example,Buy today and save more with our festival offer. Reference id 65872.,promotion
+Weekend sale #119,offers@market.example,Limited time sale with exclusive deals for members only. This message was generated for account 41604.,promotion
+Lunch plan #70,teammate@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Weekend sale #16,deals@shop.example,Get a special discount and free shipping on selected products this weekend. Please keep this email for your records.,promotion
+Password changed #95,no-reply@updates.example,Your package has shipped and the tracking details are now available. This message was generated for account 56984.,updates
+Cashback deal #32,deals@shop.example,Limited time sale with exclusive deals for members only. This message was generated for account 22219.,promotion
+Meeting notes #12,teammate@example.com,Please review the notes and share your feedback before end of day. This message was generated for account 16006.,primary
+Profile activity #98,notifications@social.example,You were invited to join a community discussion. Reply is not required for this notification.,social
+Weekend sale #104,promo@store.example,Use this coupon code to unlock cashback on your next purchase. Reference id 60615.,promotion
+Weekly sync #91,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Please keep this email for your records.,primary
+Password changed #52,ci@example.com,The deployment completed successfully and logs are attached to the build. Reply is not required for this notification.,updates
+Limited offer #88,promo@store.example,Use this coupon code to unlock cashback on your next purchase. This message was generated for account 38074.,promotion
+Weekend sale #116,offers@market.example,Get a special discount and free shipping on selected products this weekend. Reply is not required for this notification.,promotion
+Cashback deal #4,promo@store.example,Limited time sale with exclusive deals for members only. Sent from automated mail service.,promotion
+Meeting notes #80,teammate@example.com,Please review the notes and share your feedback before end of day. This message was generated for account 31299.,primary
+Urgent security alert #66,support@secure-login.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Please keep this email for your records.,phishing
+Password changed #25,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Please keep this email for your records.,updates
+You won cash #29,claim@prize.example,Buy cheap pills with no prescription and get a free bonus offer today. Reference id 58637.,spam
+Project follow up #107,friend@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reference id 70889.,primary
+Lottery winner #100,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Sent from automated mail service.,spam
+Statement ready #107,no-reply@updates.example,Your package has shipped and the tracking details are now available. This message was generated for account 40162.,updates
+Account suspended #91,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Reference id 74491.,phishing
+Account suspended #72,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Reply is not required for this notification.,phishing
+Build completed #67,billing@service.example,The deployment completed successfully and logs are attached to the build. Please keep this email for your records.,updates
+Project follow up #34,friend@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Reference id 20322.,primary
+OTP required #86,support@secure-login.example,Your bank login is locked. Visit www.account-verify.example and confirm details. This message was generated for account 41795.,phishing
+New follower #41,updates@community.example,A colleague sent you a connection request and viewed your profile. Sent from automated mail service.,social
+Free gift now #107,winner@unknown.example,You have been selected for a lottery reward. Act now to receive cash. Reply is not required for this notification.,spam
+Meeting notes #2,friend@example.com,Please review the notes and share your feedback before end of day. Sent from automated mail service.,primary
+Account suspended #61,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Reference id 19567.,phishing
+Invoice available #11,ci@example.com,Your package has shipped and the tracking details are now available. Reply is not required for this notification.,updates
+Limited offer #62,deals@shop.example,Limited time sale with exclusive deals for members only. This message was generated for account 50668.,promotion
+Exclusive discount #75,promo@store.example,Buy today and save more with our festival offer. Sent from automated mail service.,promotion
+Group invite #28,updates@community.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+OTP required #78,support@secure-login.example,Your bank login is locked. Visit www.account-verify.example and confirm details. This message was generated for account 16026.,phishing
+Account suspended #4,verify@bank-check.example,Final notice: account suspended. Confirm OTP and login credential immediately. Please keep this email for your records.,phishing
+Invoice available #109,no-reply@updates.example,Your account statement for this month is ready for download. Reference id 92242.,updates
+New connection request #6,updates@community.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+Urgent security alert #65,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. This message was generated for account 20957.,phishing
+Free gift now #96,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reply is not required for this notification.,spam
+Invoice available #59,no-reply@updates.example,The deployment completed successfully and logs are attached to the build. Sent from automated mail service.,updates
+Cashback deal #85,offers@market.example,Limited time sale with exclusive deals for members only. This message was generated for account 83259.,promotion
+Prize claim #19,claim@prize.example,You have been selected for a lottery reward. Act now to receive cash. This message was generated for account 85511.,spam
+New follower #88,notifications@social.example,Someone commented on your update in the project group. Reference id 29198.,social
+Build completed #42,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+Statement ready #20,ci@example.com,The deployment completed successfully and logs are attached to the build. Sent from automated mail service.,updates
+Exclusive discount #91,offers@market.example,Buy today and save more with our festival offer. This message was generated for account 91006.,promotion
+Coupon inside #70,deals@shop.example,Limited time sale with exclusive deals for members only. Sent from automated mail service.,promotion
+Weekend sale #105,offers@market.example,Limited time sale with exclusive deals for members only. This message was generated for account 51770.,promotion
+Document review #104,teammate@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Reply is not required for this notification.,primary
+Urgent security alert #56,security-alert@paypa1.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reply is not required for this notification.,phishing
+New connection request #46,alerts@network.example,Someone commented on your update in the project group. Please keep this email for your records.,social
+Comment notification #23,updates@community.example,You were invited to join a community discussion. Sent from automated mail service.,social
+Project follow up #75,manager@example.com,Can we move our meeting to tomorrow afternoon after the planning call? Sent from automated mail service.,primary
+New connection request #14,updates@community.example,Someone commented on your update in the project group. Sent from automated mail service.,social
+You won cash #59,claim@prize.example,Buy cheap pills with no prescription and get a free bonus offer today. Reference id 93459.,spam
+Meeting notes #114,teammate@example.com,Can we move our meeting to tomorrow afternoon after the planning call? This message was generated for account 29769.,primary
+Urgent security alert #84,security-alert@paypa1.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reference id 50723.,phishing
+Urgent security alert #1,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Sent from automated mail service.,phishing
+Password changed #32,ci@example.com,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+Weekly sync #23,teammate@example.com,Please review the notes and share your feedback before end of day. Reference id 28131.,primary
+Document review #61,friend@example.com,I added comments to the document and assigned the open action items. Please keep this email for your records.,primary
+Exclusive discount #92,offers@market.example,Use this coupon code to unlock cashback on your next purchase. Reply is not required for this notification.,promotion
+Delivery status #62,no-reply@updates.example,Your account statement for this month is ready for download. Please keep this email for your records.,updates
+Coupon inside #109,promo@store.example,Get a special discount and free shipping on selected products this weekend. Please keep this email for your records.,promotion
+Build completed #14,no-reply@updates.example,Your package has shipped and the tracking details are now available. Reference id 85470.,updates
+Statement ready #87,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. This message was generated for account 23069.,updates
+OTP required #29,support@secure-login.example,Final notice: account suspended. Confirm OTP and login credential immediately. Sent from automated mail service.,phishing
+Limited offer #100,deals@shop.example,Use this coupon code to unlock cashback on your next purchase. Please keep this email for your records.,promotion
+Project follow up #1,manager@example.com,I added comments to the document and assigned the open action items. This message was generated for account 93810.,primary
+Cheap medicine offer #10,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Sent from automated mail service.,spam
+Free gift now #60,claim@prize.example,You have been selected for a lottery reward. Act now to receive cash. Sent from automated mail service.,spam
+Meeting notes #21,manager@example.com,I added comments to the document and assigned the open action items. Sent from automated mail service.,primary
+OTP required #99,support@secure-login.example,Unusual activity detected. Update your PIN and password now to restore access. Reply is not required for this notification.,phishing
+Account suspended #17,verify@bank-check.example,URGENT: your account will expire. Verify your password at http://secure-login.example/verify. Please keep this email for your records.,phishing
+Verify password now #108,support@secure-login.example,Unusual activity detected. Update your PIN and password now to restore access. Reference id 27133.,phishing
+Final login notice #100,support@secure-login.example,Final notice: account suspended. Confirm OTP and login credential immediately. Reply is not required for this notification.,phishing
+Project follow up #93,friend@example.com,I added comments to the document and assigned the open action items. Sent from automated mail service.,primary
+Meeting notes #39,manager@example.com,I added comments to the document and assigned the open action items. Reference id 42493.,primary
+Prize claim #23,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Reply is not required for this notification.,spam
+Invoice available #60,billing@service.example,Your package has shipped and the tracking details are now available. Sent from automated mail service.,updates
+Coupon inside #77,offers@market.example,Use this coupon code to unlock cashback on your next purchase. Reference id 21053.,promotion
+Free gift now #76,sales@random.example,You have been selected for a lottery reward. Act now to receive cash. Reference id 50405.,spam
+Cheap medicine offer #25,winner@unknown.example,You have been selected for a lottery reward. Act now to receive cash. This message was generated for account 72065.,spam
+Delivery status #73,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+Free gift now #97,winner@unknown.example,You have been selected for a lottery reward. Act now to receive cash. This message was generated for account 98208.,spam
+Password changed #26,ci@example.com,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+Cheap medicine offer #98,claim@prize.example,Free gift waiting for you. Click now before the offer expires!!! Reply is not required for this notification.,spam
+Prize claim #102,winner@unknown.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Sent from automated mail service.,spam
+Comment notification #1,updates@community.example,You were invited to join a community discussion. This message was generated for account 99742.,social
+Weekly sync #29,manager@example.com,Please review the notes and share your feedback before end of day. Please keep this email for your records.,primary
+Verify password now #6,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reply is not required for this notification.,phishing
+New follower #8,notifications@social.example,You were invited to join a community discussion. Reply is not required for this notification.,social
+Coupon inside #86,deals@shop.example,Buy today and save more with our festival offer. Sent from automated mail service.,promotion
+Verify password now #7,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reply is not required for this notification.,phishing
+Weekend sale #3,deals@shop.example,Use this coupon code to unlock cashback on your next purchase. Sent from automated mail service.,promotion
+Invoice available #61,ci@example.com,The deployment completed successfully and logs are attached to the build. Sent from automated mail service.,updates
+Statement ready #58,no-reply@updates.example,Your account statement for this month is ready for download. Reference id 75597.,updates
+New follower #4,updates@community.example,You were invited to join a community discussion. Sent from automated mail service.,social
+New follower #38,notifications@social.example,You have new followers and reactions on your recent post. Please keep this email for your records.,social
+Prize claim #110,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. Reply is not required for this notification.,spam
+OTP required #116,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reference id 75390.,phishing
+Meeting notes #58,manager@example.com,Please review the notes and share your feedback before end of day. This message was generated for account 79615.,primary
+Lottery winner #67,claim@prize.example,You have been selected for a lottery reward. Act now to receive cash. Reference id 20279.,spam
+Weekend sale #33,offers@market.example,Limited time sale with exclusive deals for members only. Reference id 82924.,promotion
+Limited offer #7,deals@shop.example,Buy today and save more with our festival offer. Reply is not required for this notification.,promotion
+Final login notice #73,security-alert@paypa1.example,Unusual activity detected. Update your PIN and password now to restore access. Sent from automated mail service.,phishing
+Exclusive discount #14,offers@market.example,Get a special discount and free shipping on selected products this weekend. Please keep this email for your records.,promotion
+Project follow up #103,manager@example.com,Thanks for the update. Let us discuss the remaining blockers in standup. Sent from automated mail service.,primary
+Invoice available #44,billing@service.example,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+Delivery status #119,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+Prize claim #119,sales@random.example,Buy cheap pills with no prescription and get a free bonus offer today. Reply is not required for this notification.,spam
+New follower #7,alerts@network.example,You were invited to join a community discussion. Reply is not required for this notification.,social
+Prize claim #63,claim@prize.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. This message was generated for account 99709.,spam
+Free gift now #4,sales@random.example,Congratulations!!! You won $5000. Click the URL to claim your prize immediately. This message was generated for account 12853.,spam
+Weekly sync #60,manager@example.com,Please review the notes and share your feedback before end of day. Sent from automated mail service.,primary
+Cashback deal #48,promo@store.example,Limited time sale with exclusive deals for members only. This message was generated for account 89570.,promotion
+Meeting notes #31,friend@example.com,Please review the notes and share your feedback before end of day. Sent from automated mail service.,primary
+Build completed #105,no-reply@updates.example,Your monthly invoice is ready and can be viewed in your account dashboard. Sent from automated mail service.,updates
+Final login notice #12,verify@bank-check.example,Your bank login is locked. Visit www.account-verify.example and confirm details. Reply is not required for this notification.,phishing
+Weekend sale #87,promo@store.example,Limited time sale with exclusive deals for members only. This message was generated for account 57425.,promotion
+Weekly sync #27,teammate@example.com,I added comments to the document and assigned the open action items. Reference id 99353.,primary
+Invoice available #65,billing@service.example,The deployment completed successfully and logs are attached to the build. Reply is not required for this notification.,updates
